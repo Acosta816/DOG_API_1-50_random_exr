@@ -12,7 +12,7 @@
     width: 500px;
 }
 
-ul {
+.js-dog-list {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
